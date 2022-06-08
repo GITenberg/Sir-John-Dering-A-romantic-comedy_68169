@@ -1,0 +1,36 @@
+_repo: Sir-John-Dering-A-romantic-comedy_68169
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Farnol, Jeffery
+    aliases:
+    - Farnol, Jeffrey
+    - Farnol, Jack
+    - Farnol, John Jeffery
+    birthdate: 1878
+    deathdate: 1952
+    gutenberg_agent_id: '789'
+    url: http://www.gutenberg.org/2009/agents/789
+    wikipedia: http://en.wikipedia.org/wiki/Jeffery_Farnol
+description: ''
+gutenberg_issued: '2022-05-25'
+identifiers:
+  gutenberg: '68169'
+language: en
+pgterms:marc904: https://archive.org/details/sirjohnderingrom00farnuoft/page/n5
+pgterms:marc905: 20190131045544farnol
+pgterms:marc906: '1923'
+pgterms:marc907: GB
+production_note: Tim Lindell and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/Canadian
+  Libraries)
+publication_note: United Kingdom :Sampson Low, Marston & Co. Ltd.,1923.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English fiction -- 20th century'
+- !lcc 'PR'
+- GITenberg
+title: 'Sir John Dering: A romantic comedy'
+url: http://www.gutenberg.org/ebooks/68169
