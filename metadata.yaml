@@ -1,5 +1,8 @@
 _repo: Sir-John-Dering-A-romantic-comedy_68169
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68169-h/images/cover.jpg
 creator:
   author:
     agent_name: Farnol, Jeffery
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/789
     wikipedia: http://en.wikipedia.org/wiki/Jeffery_Farnol
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68169#Sir-John-Dering-A-romantic-comedy
 gutenberg_issued: '2022-05-25'
 identifiers:
   gutenberg: '68169'
